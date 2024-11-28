@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323268010481",
+    "project_id": "teamspace2-1106f",
+    "storage_bucket": "teamspace2-1106f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323268010481:android:f0691fd6c957b2698fe450",
+        "android_client_info": {
+          "package_name": "com.example.teamspace2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWFeBrq6mGhK1IRsVE3ke9uWWuB_l7UlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
